@@ -10,8 +10,7 @@ The template.py provides a base class for common functionalities, and the client
 
 **HOW TO RUN**
 
-**Broker:**
-
+**Broker:**  
 Open a terminal and navigate to the directory containing broker.py.
 Run the broker script using the following command:
 
