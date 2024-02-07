@@ -9,7 +9,9 @@ The broker (broker.py) is responsible for handling communication between publish
 The template.py provides a base class for common functionalities, and the client.py class defines a basic client structure. The simulation allows publishers to send data to specified topics, subscribers to receive data from subscribed topics, and the broker to manage these communications.
 
 **HOW TO RUN**
+
 **Broker:**
+
 Open a terminal and navigate to the directory containing broker.py.
 Run the broker script using the following command:
 
@@ -18,6 +20,7 @@ Run the broker script using the following command:
 The broker will start listening for incoming messages on the specified IP address and port.
 
 **Publisher:**
+
 Open a new terminal and navigate to the directory containing publisher.py.
 Run the publisher script using the following command:
 
@@ -26,6 +29,7 @@ Run the publisher script using the following command:
 Enter a topic and data when prompted to publish a message.
 
 **Subscriber:**
+
 Open another terminal and navigate to the directory containing subscriber.py.
 Run the subscriber script using the following command:
 
